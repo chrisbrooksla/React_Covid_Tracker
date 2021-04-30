@@ -48,7 +48,7 @@ const [covidData, setCovidData] = useState([])
 
   return (
     <div>
-      <h1>Covid Stats</h1>
+      <h1>API Covid Stat Tracker</h1>
 
       <div className="row justify-content-center">
         <div className="col-md-8">
